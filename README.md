@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ari, a full-stack freelance developer based in Vancouver, Canada 👩‍💻</div>  
+### <div align="left">I'm Ari, a full-stack freelance developer based in Vancouver, Canada 👩‍💻</div>  
   
 
 - 🧬 My background was... Medical Laboratory Science  
@@ -91,11 +91,6 @@
 <br/>  
 
   
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
