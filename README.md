@@ -1,7 +1,7 @@
  
 <br/>  
 
-### <div align="left">Hello! I'm Ari, a full-stack freelance developer based in Vancouver, Canada 👩‍💻</div>  
+### <div align="left">Hello! I'm Ari, a full-stack developer based in Vancouver, Canada 👩‍💻</div>  
   
 
 - 🧬 My background was... Medical Laboratory Science  
